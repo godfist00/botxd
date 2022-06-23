@@ -1,0 +1,28 @@
+{
+  "Prefix":".",
+  "Owner":"920367645516255312",
+  "Token":"OTIyODE5NzI2NjU5NDQwNjgw.YcHA1w.JlCFHFizhCZZUzZZZHGKlFBQhE8",
+
+"DağıtıcıTokens" : [
+        "OTIyODE5NTQxMTI4NTgxMTUy.YcHAqw._DDM68t4f0mhiRR4tA6r2S2sAKs",
+        "OTIyODIwMzk2NDYwNDA4ODky.YcHBdw.WdIkhPQIBnUG7E5mFa83f8-c7qA",
+        "OTIyODIwNTQ1NTIxODA3MzYw.YcHBmw.tglSr7nytbHTmThNurYAF_5GHak",
+        "OTIyODcxNzMyMjcwOTI3ODgy.YcHxRw.or5UkTeYlPcWsA-2uz4gWxDtZpk",
+        "OTIyODczMjg3NzQ5NTM3OTc5.YcHyuQ.ijVzsq69dcRQ2DITAKVPFCqZlLU",
+        "OTIzMTM3NDU2MDgwMDI3Njk5.YcLowA.GX9tBn4PQbQCqZa0uULwFvuIUkc",
+        "OTIzMTM3NjI0MzU5NzEwNzIw.YcLo6A.aj56MnEVaag-5TfDBMHbjwlN9-A",
+        "OTIzMTM3NzMzOTAyMzUyMzg0.YcLpAg.ln6jm_BQzmfYcrjuC5y59tD-qyI"
+],
+
+  "MongoUrl":"mongodb+srv://vixedd:7e43928vVeLY2U6J@cluster0.abc9v.mongodb.net/qwennqwrqb?retryWrites=true&w=majority",
+  "backupkanal":"938005746908553226",
+  "guildID":"937999598423789568",
+  "BotSesKanal":"937999599556255797",
+  "BotDurum":"vixed was here?",
+  "BotFooter":"Vixed ❤️ Phândora",
+  "BotStatus":"online",
+
+  "green":"<a:green:938015573705633812>", 
+  "greenid":"938015573705633812"
+
+  }
